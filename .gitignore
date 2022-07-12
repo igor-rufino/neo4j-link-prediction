@@ -1,0 +1,5 @@
+notebooks/.local
+notebooks/.cache
+notebooks/.ipython
+notebooks/.ipynb_checkpoints
+notebooks/.jupyter
